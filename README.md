@@ -28,3 +28,5 @@ I wrote the code with KMK. The rotary encoder changes the volume and the keys do
 - 4x/8x M3x5mx4mm heatset inserts (i'm not sure how many i'll need)
 - 1x 3d printed case
 - 1x PCB
+# Extra stuff
+I might change the screw hole size on the case since i'm not sure how will the screws and heatset inserts fit.
