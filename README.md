@@ -19,12 +19,12 @@ I made the pcb in KiCad. I used the image converter in KiCad for the pictures.
 # Firmware
 I wrote the code with KMK. The rotary encoder changes the volume and the keys do functions that i'm going to change to my needs.
 # BOM
-1x Seeed XIAO RP2040
-6x MX-Style switches
-6x Blank DSA keycaps
-2x SK6812 MINI-E LEDs
-1x EC11 Rotary encoder
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
-1x 3d printed case
-1x PCB
+- 1x Seeed XIAO RP2040
+- 6x MX-Style switches
+- 6x Blank DSA keycaps
+- 2x SK6812 MINI-E LEDs
+- 1x EC11 Rotary encoder
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
+- 1x 3d printed case
+- 1x PCB
