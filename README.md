@@ -13,6 +13,7 @@ here is the case without electronics
 <img width="1103" height="601" alt="Image" src="https://github.com/user-attachments/assets/f6f421f0-133f-4338-8caa-2ee75425da00" />
 # PCB
 I made the pcb in KiCad. I used the image converter in KiCad for the pictures.
-|Schematic|
-|---------|
-|
+|Schematic|PCB|
+|---------|---|
+|<img width="799" height="319" alt="Image" src="https://github.com/user-attachments/assets/0e15312f-1daf-4abc-b45d-627a2745a380" />|<img width="1389" height="609" alt="Image" src="https://github.com/user-attachments/assets/727ea2b5-d162-498f-bd0a-7bef966eeed7" />|
+
