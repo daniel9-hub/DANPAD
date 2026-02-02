@@ -1,5 +1,5 @@
 # DANPAD
-Hello, this is my submission for hackpad. i hope you'll like it :)
+Hello, this is my submission for hackpad. I hope you'll like it :)
 # Features
 - 6 keys
 - EC11 rotary encoder for volume adjusting
