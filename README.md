@@ -1,6 +1,8 @@
 # DANPAD
 Hello, this is my submission for hackpad. I hope you'll like it :)
-# Image of the finished Hackpad
+# Picture of the finished Hackpad
+<img width="2000" height="1500" alt="Image" src="https://github.com/user-attachments/assets/e44bd3bd-0e68-46b8-95e3-c443867fa78c" />
+
 # Features
 - 6 keys
 - EC11 rotary encoder for volume adjusting
@@ -30,4 +32,4 @@ I wrote the code with KMK. The rotary encoder changes the volume and the keys do
 - 1x 3d printed case
 - 1x PCB
 # Extra stuff
-I might change the screw hole size on the case since i'm not sure how will the screws and heatset inserts fit.
+I might change the screw hole size on the case since i'm not sure how will the screws and heatset inserts fit. I also forgot to add a ground trace to the switches so I had to solder a wire to one of the switches right pin and connect it to the xiaos ground pin.
